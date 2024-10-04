@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Clock from './clock';
+import Clock from './Clock';
 
 function App() {
   const [time, setTime] = useState({
